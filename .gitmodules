@@ -1,0 +1,6 @@
+[submodule "external/pmp-library"]
+	path = external/pmp-library
+	url = https://github.com/pmp-library/pmp-library.git
+[submodule "external/nvdiffrast"]
+	path = external/nvdiffrast
+	url = https://github.com/NVlabs/nvdiffrast.git
