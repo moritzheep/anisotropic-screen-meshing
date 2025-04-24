@@ -3,10 +3,10 @@
 
 
 [Moritz Heep](https://moritzheep.github.io/) (PhenoRob, University of Bonn),
-[Sven Behnke](https://www.ais.uni-bonn.de/behnke/) (Autonomous Intelligent Systems, University of Bonn),
-[Eduard Zell](http://www.eduardzell.com/) (Independent Researcher)
 
-University of Bonn, PhenoRob
+[Sven Behnke](https://www.ais.uni-bonn.de/behnke/) (Autonomous Intelligent Systems, University of Bonn),
+
+[Eduard Zell](http://www.eduardzell.com/) (Independent Researcher)
 
 # Getting Started
 To clone the repository with all its submodules run
