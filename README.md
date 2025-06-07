@@ -58,12 +58,13 @@ You can run `src/main` to get of full list of all options.
 If you get meshes that curve in the wrong direction, try flipping the x or y coordinate of your normal map.
 
 # Citation
-This work has been accepted for IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Nashville TN, USA, June 2025.
 ```
-@article{heep2025feature,
-  title={Feature-Preserving Mesh Decimation for Normal Integration},
-  author={Heep, Moritz and Behnke, Sven and Zell, Eduard},
-  journal={arXiv preprint arXiv:2504.00867},
-  year={2025}
+@InProceedings{Heep_2025_CVPR,
+    author    = {Heep, Moritz and Behnke, Sven and Zell, Eduard},
+    title     = {Feature-Preserving Mesh Decimation for Normal Integration},
+    booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {5783-5792}
 }
 ```
